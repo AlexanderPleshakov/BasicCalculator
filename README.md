@@ -1,4 +1,4 @@
-#Basic Calculator
+Basic Calculator
 ---
 Basic calculator written in SwiftUI
 <p align="center">
